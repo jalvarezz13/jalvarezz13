@@ -2,11 +2,11 @@
 
 
 
-<img src="https://esi.uclm.es/files/pictures/285/content_Logo_ESI_fondo_negro.jpg" width="90" height="30" align = "left">
-Studying the fourth year of the degree at Escuela Superior de Informática - UCLM
-<br/>
-<br/>
+<img src="logoESI.png" width="40" height="27" align = "left">
 
+
+Estudiante de cuarto en la Escuela Superior de Informática
+<br/>
 
 
 ![https://github.com/jalvarezz13](banner.png)
