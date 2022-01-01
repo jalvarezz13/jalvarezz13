@@ -69,5 +69,5 @@
 
 <h1 align = "middle">📫 Contact 📫</h1>
 <a title="Gmail" href="mailto:jav.alv.par@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a title="Gmail" href="https://www.linkedin.com/in/javieralpa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a title="Gmail" href="https://t.me/jap13"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a title="Linkedin" href="https://www.linkedin.com/in/javieralpa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a title="Telegram" href="https://t.me/jap13"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
