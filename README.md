@@ -10,7 +10,7 @@
 <h1 align = "middle">📊 Statistics 📊</h1>
 <div align="center">
 
-[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalvarezz13&count_private=true&show_icons=true&&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalvarezz13&count_private=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
