@@ -1,8 +1,8 @@
-# 👋🏽 Hi Everyone! 👋🏽
+# Bienvenid@ a mi GitHub 👋
 
 <div align="center">
-    <h3>🌌 ᴊᴀᴠɪᴇʀ Áʟᴠᴀʀᴇᴢ 🌌 <br/> Student 4th course from <i>Escuela Superior de Informática</i></h3>
-    <img src="logoESI.png" width="60" height="40" vertical-align="baseline">
+    <h3>🤖 JAVIER ÁLVAREZ 👾</h3>
+    <h4><i>El éxito es un 99% de esfuerzo y un 1% de talento.<br/><strong>Albert Einstein</strong></i></h4>
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 
 <h1 align = "middle">🚀 Skills 🚀</h1>
 
-## 👨🏽‍💻 Programming Languages and Techs
+## 👨‍💻 Programming Languages and Techs
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
