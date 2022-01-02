@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvarezz13&langs_count=10&layout=compact&&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvarezz13&hide=html&langs_count=10&layout=compact&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
