@@ -2,7 +2,7 @@
 
 <div align="center">
     <h3>🤖 JAVIER ÁLVAREZ 👾</h3>
-    <h4><i>El éxito es un 99% de esfuerzo y un 1% de talento.<br/><strong>Albert Einstein</strong></i></h4>
+    <h4><i>"El éxito es un 99% de esfuerzo y un 1% de talento.<br/><strong>Albert Einstein"</strong></i></h4>
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvarezz13&hide=html&langs_count=10&layout=compact&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvarezz13&langs_count=10&layout=compact&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
