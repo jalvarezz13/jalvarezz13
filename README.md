@@ -2,7 +2,7 @@
 
 <div align="center">
     <h3>🤖 JAVIER ÁLVAREZ 👾</h3>
-    <h4><i>"El éxito es un 99% de esfuerzo y un 1% de talento.<br/><strong>Albert Einstein"</strong></i></h4>
+    <h4><i>"El éxito es un 99% de esfuerzo y un 1% de talento"</i><br/><strong>Albert Einstein</strong></h4>
 </div>
 
 <br/>
