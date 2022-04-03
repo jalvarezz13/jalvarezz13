@@ -10,12 +10,11 @@
 <h1 align = "middle">📊 Statistics 📊</h1>
 <div align="center">
 
-[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalvarezz13&count_private=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalvarezz13&count_private=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvarezz13&langs_count=10&layout=compact&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
-](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvarezz13&langs_count=10&layout=compact&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 
 </div>
 
