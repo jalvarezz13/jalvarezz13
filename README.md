@@ -2,7 +2,7 @@
 
 <div align="center">
     <h3>🤖 JAVIER ÁLVAREZ 👾</h3>
-    <h4><i>"El éxito es un 99% de esfuerzo y un 1% de talento"</i><br/><strong>Albert Einstein</strong></h4>
+    <h4><i>"Genius is 1% talent and 99% hard work..."</i><br/><strong>Albert Einstein</strong></h4>
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 
 <h1 align = "middle">🚀 Skills 🚀</h1>
 
-## 👨‍💻 Top Programming Languages
+## 💻 Top Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,6 +46,7 @@
 
 <h1 align = "middle">📫 Contact 📫</h1>
 <a title="Email" href="mailto:jav.alv.par@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a title="Linkedin" href="https://www.linkedin.com/in/javieralpa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a title="Linkedin" style="marginLeft: 10px" href="https://www.linkedin.com/in/javieralpa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <!-- <a title="Telegram" href="https://t.me/jap13"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a title="Website" href="https://jalvarezz13.github.io/"><img src="https://img.shields.io/badge/Sitio%20Web-black?style=for-the-badge&logo=JSON%20web%20tokens"/></a> -->
