@@ -18,9 +18,8 @@
 
 </div>
 
-
+<!--
 <h1 align = "middle">🚀 Skills 🚀</h1>
-
 ## 💻 Top Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -43,10 +42,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+-->
 
 <h1 align = "middle">📫 Contact 📫</h1>
+<div align="center">
 <a title="Email" href="mailto:jav.alv.par@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a title="Linkedin" style="marginLeft: 10px" href="https://www.linkedin.com/in/javieralpa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 
 <!-- <a title="Telegram" href="https://t.me/jap13"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a title="Website" href="https://jalvarezz13.github.io/"><img src="https://img.shields.io/badge/Sitio%20Web-black?style=for-the-badge&logo=JSON%20web%20tokens"/></a> -->
