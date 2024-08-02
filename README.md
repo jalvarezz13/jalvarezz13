@@ -46,9 +46,8 @@
 
 <h1 align = "middle">📫 Contact 📫</h1>
 <div align="center">
-<a title="Email" href="mailto:jav.alv.par@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a title="Linkedin" style="marginLeft: 10px" href="https://www.linkedin.com/in/javieralpa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a title="Website" href="https://jalvarezz13.com"><img style="height: 30px;" src="https://img.shields.io/badge/Website-0980ff?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a title="Email" href="mailto:jav.alv.par@gmail.com"><img style="height: 30px;" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a title="Linkedin" href="https://www.linkedin.com/in/jalvarezz13"><img style="height: 30px;" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a title="Twitter / X" href="https://x.com/jalvarezz13"><img style="height: 30px;" src="https://img.shields.io/badge/Twitter%20%2F%20X-FFFFFF?style=for-the-badge&logo=x&logoColor=black"/></a>
 </div>
-
-<!-- <a title="Telegram" href="https://t.me/jap13"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a title="Website" href="https://jalvarezz13.github.io/"><img src="https://img.shields.io/badge/Sitio%20Web-black?style=for-the-badge&logo=JSON%20web%20tokens"/></a> -->
