@@ -6,8 +6,6 @@ AI agent security, MCP protocol hardening, and adversarial LLM research at **San
 Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe & MWC.<br/>
 16+ publications across 0xWORD, Telefonica ThinkBig, and El lado del mal.
 
-<br/>
-
 <p>
   <a href="https://www.santander.com"><img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/santander-white.png" height="26" alt="Santander"/></a>
   &ensp;&ensp;
