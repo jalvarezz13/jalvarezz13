@@ -26,8 +26,6 @@ Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe, MWC & GDGs.<
 </picture>
 -->
 
----
-
 [jalvarezz13.com](https://jalvarezz13.com) · [LinkedIn](https://www.linkedin.com/in/jalvarezz13/) · [X](https://x.com/jalvarezz13) · [hello@jalvarezz13.com](mailto:hello@jalvarezz13.com)
 
 </div>
