@@ -56,9 +56,9 @@ Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe & MWC.
 
 ---
 
-[![Website](https://img.shields.io/badge/jalvarezz13.com-000?style=flat-square&logo=safari&logoColor=white)](https://jalvarezz13.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalvarezz13/)
-[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/jalvarezz13)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jav.alv.par@gmail.com)
+[![Website](https://img.shields.io/badge/jalvarezz13.com-111?style=flat-square&logo=safari&logoColor=white)](https://jalvarezz13.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalvarezz13/)
+[![X](https://img.shields.io/badge/X-111?style=flat-square&logo=x&logoColor=white)](https://x.com/jalvarezz13)
+[![Email](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=white)](mailto:jav.alv.par@gmail.com)
 
 </div>
