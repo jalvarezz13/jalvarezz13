@@ -21,7 +21,7 @@ Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe & MWC.
     </td>
     <td align="center" width="150">
       <a href="https://www.telefonica.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Telef%C3%B3nica_2021_logo.svg/200px-Telef%C3%B3nica_2021_logo.svg.png" height="30" alt="Telefonica"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Telefónica_2021_logo.svg" height="30" alt="Telefonica"/>
       </a>
       <br/><sub><b>Cybersecurity & AI</b></sub>
     </td>
