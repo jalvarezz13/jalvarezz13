@@ -1,7 +1,5 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=jalvarezz13&color=gray&style=flat-square)
-
 # Javier Álvarez Páramo
 
 **Cybersecurity & AI Engineer**
