@@ -3,10 +3,12 @@
 **Cybersecurity & AI Engineer**
 
 AI agent security, MCP protocol hardening, and adversarial LLM research at **Santander**.<br/>
-Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe, MWC & GDGs.<br/>
-16+ publications across Telefonica ThinkBig and El lado del mal.
 
-Instructor & ex-Telefónica ([Ideas Locas](https://ideasseguridad.com/), Chema Alonso's team).
+Instructor & ex-Telefónica Ideas Locas, (Chema Alonso's team).<br/>
+
+Author of _Quantum Security_ (0xWORD). Speaker at Black Hat Europe, MWC & GDGs.<br/>
+
+16+ publications across Telefonica ThinkBig and El lado del mal.<br/>
 
 [![GitHub Stats](https://github-readme-stats-pi-six-34.vercel.app/api?username=jalvarezz13&theme=tokyonight&hide_border=true&count_private=true&show_icons=true)](https://github.com/jalvarezz13)
 
