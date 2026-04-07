@@ -1,8 +1,10 @@
+# Snake animation workflow (disabled)
+# To re-enable: uncomment the schedule trigger and the snake block in README.md
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # schedule:
+  #   - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
