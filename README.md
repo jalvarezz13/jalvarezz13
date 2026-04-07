@@ -12,25 +12,25 @@ Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe & MWC.<br/>
   <tr>
     <td align="center" width="150">
       <a href="https://www.santander.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Banco_Santander_Logotipo.svg/200px-Banco_Santander_Logotipo.svg.png" height="30" alt="Santander"/>
+        <img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/santander-white.png" height="30" alt="Santander"/>
       </a>
       <br/><sub><b>Sr. Cybersecurity & AI</b></sub>
     </td>
     <td align="center" width="150">
       <a href="https://www.telefonica.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Telefónica_2021_logo.svg" height="30" alt="Telefonica"/>
+        <img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/telefonica-white.svg" height="30" alt="Telefonica"/>
       </a>
       <br/><sub><b>Cybersecurity & AI</b></sub>
     </td>
     <td align="center" width="150">
       <a href="https://www.deusto.es">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/LogoDeusto.png" height="25" alt="Universidad de Deusto"/>
+        <img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/deusto-white.png" height="25" alt="Universidad de Deusto"/>
       </a>
       <br/><sub><b>Instructor</b></sub>
     </td>
     <td align="center" width="150">
       <a href="https://4geeksacademy.com">
-        <img src="https://storage.googleapis.com/4geeks-academy-website/media/4geeks-devs-logo_1763162063433.png" height="30" alt="4Geeks Academy"/>
+        <img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/4geeks-white.png" height="30" alt="4Geeks Academy"/>
       </a>
       <br/><sub><b>Instructor</b></sub>
     </td>
