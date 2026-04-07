@@ -8,31 +8,23 @@ Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe & MWC.<br/>
 
 <br/>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="150">
-      <a href="https://www.santander.com">
-        <img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/santander-white.png" height="30" alt="Santander"/>
-      </a>
-      <br/><sub><b>Sr. Cybersecurity & AI</b></sub>
+    <td align="center" valign="middle" width="160" height="80">
+      <a href="https://www.santander.com"><img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/santander-white.png" height="28" alt="Santander"/></a><br/>
+      <sub><b>Sr. Cybersecurity & AI</b></sub>
     </td>
-    <td align="center" width="150">
-      <a href="https://www.telefonica.com">
-        <img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/telefonica-white.svg" height="30" alt="Telefonica"/>
-      </a>
-      <br/><sub><b>Cybersecurity & AI</b></sub>
+    <td align="center" valign="middle" width="160" height="80">
+      <a href="https://www.telefonica.com"><img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/telefonica-white.svg" height="28" alt="Telefonica"/></a><br/>
+      <sub><b>Cybersecurity & AI</b></sub>
     </td>
-    <td align="center" width="150">
-      <a href="https://www.deusto.es">
-        <img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/deusto-white.png" height="25" alt="Universidad de Deusto"/>
-      </a>
-      <br/><sub><b>Instructor</b></sub>
+    <td align="center" valign="middle" width="160" height="80">
+      <a href="https://www.deusto.es"><img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/deusto-white.png" height="28" alt="Universidad de Deusto"/></a><br/>
+      <sub><b>Instructor</b></sub>
     </td>
-    <td align="center" width="150">
-      <a href="https://4geeksacademy.com">
-        <img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/4geeks-white.png" height="30" alt="4Geeks Academy"/>
-      </a>
-      <br/><sub><b>Instructor</b></sub>
+    <td align="center" valign="middle" width="160" height="80">
+      <a href="https://4geeksacademy.com"><img src="https://raw.githubusercontent.com/jalvarezz13/jalvarezz13/master/assets/logos/4geeks-white.png" height="28" alt="4Geeks Academy"/></a><br/>
+      <sub><b>Instructor</b></sub>
     </td>
   </tr>
 </table>
