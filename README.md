@@ -1,7 +1,5 @@
 <div align="center">
 
-# Javier Álvarez Páramo
-
 **Cybersecurity & AI Engineer**
 
 AI agent security, MCP protocol hardening, and adversarial LLM research at **Santander**.<br/>
