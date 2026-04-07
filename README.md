@@ -7,7 +7,8 @@
 **Cybersecurity & AI Engineer**
 
 AI agent security, MCP protocol hardening, and adversarial LLM research at **Santander**.<br/>
-Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe & MWC.
+Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe & MWC.<br/>
+16+ publications across 0xWORD, Telefonica ThinkBig, and El lado del mal.
 
 <br/>
 
@@ -39,10 +40,6 @@ Author of *Quantum Security* (0xWORD). Speaker at Black Hat Europe & MWC.
     </td>
   </tr>
 </table>
-
-<br/>
-
-`Black Hat Europe '24` · `MWC '25` · `RootedCON` · `BiznagaFest '25` · `16+ publications`
 
 <br/>
 
