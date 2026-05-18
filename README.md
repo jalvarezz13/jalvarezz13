@@ -9,7 +9,7 @@ Co-Author of *Quantum Security* (0xWORD).
 Speaker at **Black Hat Europe**, **MWC**, and **GDGs**.  
 Published 16+ technical articles in **Telefónica ThinkBig** and **El lado del mal**.
 
-[![GitHub Stats](https://github-readme-stats-pi-six-34.vercel.app/api?username=jalvarezz13&theme=tokyonight&hide_border=true&count_private=true&show_icons=true)](https://github.com/jalvarezz13)
+<!-- [![GitHub Stats](https://github-readme-stats-pi-six-34.vercel.app/api?username=jalvarezz13&theme=tokyonight&hide_border=true&count_private=true&show_icons=true)](https://github.com/jalvarezz13) -->
 
 <!-- Snake animation (uncomment to re-enable)
 <picture>
